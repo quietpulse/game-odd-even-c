@@ -3,6 +3,7 @@
 #include <stdlib.h>
 
 // Calling functions on top to remove warnings!
+// this is just a testing comment
 void amanFunction(int randomNum, int choice, char* name, int amanScore, int userScore);
 void userFunction(int randomNum, int choice, char* name, int userScore, int amanScore);
 void displayInstructions();
